@@ -34,3 +34,6 @@ main()
     console.error(error);
     process.exit(1);
   });
+
+
+  // address contract: 0x3e1604b823Dc5E3C701bd96c93F807c82B0BF56e
