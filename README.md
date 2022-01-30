@@ -13,7 +13,7 @@ Now its time for you to launch your own NFT collection - `Crypto Devs`.
 
 Lets start building 🚀
 
-## Prerequisites
+## Prerequisitesgggggggggggggggggggggg
 
 - You can have completed the [Whitelist dApp tutorial](https://github.com/LearnWeb3DAO/Whitelist-Dapp)
 
